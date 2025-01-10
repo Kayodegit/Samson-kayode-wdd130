@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Samson Kayode | WDD 130</title>
+  </head>
+  <body>
+    <header>
+        <nav>
+          <a href="#">Home</a>
+          <a href="https://www.byui.edu">BYU-Idaho</a>.</p>
+        </nav>
+      </header>
+      <main>
+        <h1>Samson Kayode | WDD 130</h1>
+        <img src="images/profile.jpg.webp" alt="Hello, my name is Samson Kayode" width="200">
+        <p>Hello! My name is Samson Kayode and I am from Lagos, Nigeria. I'm a passionate engineer who works as a facility supervisor at ALPHA MEAD GROUP   ... </p>
+      </main>
+      <footer>
+        <p>©2025 🌍 Samson Kayode 🌍 Lagos, Nigeria</p>
+      </footer>
+  </body>
+</html>
